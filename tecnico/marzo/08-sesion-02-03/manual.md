@@ -2,10 +2,10 @@
 
 ## encabezados 
 
-      se agrega  y se integra un texto
-      cada  cambia la tipo grafia y 
-      dependiendo los  asi mismo se vera 
-      afectado la tipo grafia
+se agrega  y se integra un texto
+cada  cambia la tipo grafia y 
+dependiendo los  asi mismo se vera 
+afectado la tipo grafia
       
 
 # A first-level heading
@@ -24,9 +24,9 @@ Puede entrecomillar texto con >.
 
 ## Estilos de texto
 
-       Puedes indicar énfasis con texto en negrita,
-       cursiva, tachado, o de subíndice o superíndice
-       en los campos de comentarios y archivos .md.
+Puedes indicar énfasis con texto en negrita,
+cursiva, tachado, o de subíndice o superíndice
+en los campos de comentarios y archivos .md.
 
 ![.](tabla.JPG)
 
@@ -34,6 +34,7 @@ Puede entrecomillar texto con >.
 Puedes indicar un código o un comando dentro de un enunciado con comillas simples           
 Use `git status` to list all new or modified files that haven't yet been committed.
 Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
+
             Some basic Git commands are:
             
             ```
