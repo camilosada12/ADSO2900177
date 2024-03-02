@@ -93,5 +93,3 @@ necesitará agregar el carácter de escape \:
 > Advises about risks or negative outcomes of certain actions.
 Puedes agregar emoji a la escritura escribiendo :EMOJICODE:, 
 dos puntos seguidos del nombre del emoji.
-
-      @octocat :+1: This PR looks great - it's ready to merge! :shipit:
