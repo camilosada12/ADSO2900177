@@ -1,6 +1,6 @@
 ### etiquetas  para los archivos Md
 
- ##encabezados 
+ ## encabezados 
 
 se agrega # y se integra un texto
 cada # cambia la tipo grafia y 
