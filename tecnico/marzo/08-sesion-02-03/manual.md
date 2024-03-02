@@ -31,11 +31,9 @@ Puede entrecomillar texto con >.
 ![.](tabla.JPG)
 
 ## Código de cita
-            Puedes indicar un código o un comando dentro de un enunciado con comillas simples
-            
-            Use `git status` to list all new or modified files that haven't yet been committed.
-            
-            Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
+Puedes indicar un código o un comando dentro de un enunciado con comillas simples           
+Use `git status` to list all new or modified files that haven't yet been committed.
+Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
             Some basic Git commands are:
             
             ```
