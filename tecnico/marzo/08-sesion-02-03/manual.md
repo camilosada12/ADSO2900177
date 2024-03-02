@@ -1,6 +1,6 @@
 # etiquetas  para los archivos Md
 
- ### encabezados 
+ ## encabezados 
 
 se agrega # y se integra un texto
 cada # cambia la tipo grafia y 
@@ -11,8 +11,8 @@ afectado la tipo grafia
 ##A second-level heading
 ###A third-level heading
 
-los tipos de texto
+## los tipos de texto
 
-**estilos** 
+### estilos
 
 
