@@ -14,7 +14,7 @@ afectado la tipo grafia
 ## Entrecomillado de texto
 Puede entrecomillar texto con >.
 
-> Text that is a quote
+ >Text that is a quote
 
 se le aplica sanguia y un color diferente
 
