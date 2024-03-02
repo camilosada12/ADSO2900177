@@ -37,6 +37,7 @@ Puede entrecomillar texto con >.
             
             Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
             Some basic Git commands are:
+            
             ```
             git status
             git add
