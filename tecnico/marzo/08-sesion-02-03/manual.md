@@ -45,5 +45,16 @@ Para formatear código o texto en su propio bloque distintivo, usa comillas trip
             git commit
             ```
 
-ñ
+## Listas
+Puedes crear una lista sin ordenar. 
+Para ello, coloca -, * o + antes de una o más líneas de texto.
 
+            - George Washington
+            * John Adams
+            + Thomas Jefferson
+            
+Para ordenar tu lista, antecede cada línea con un número.
+
+            1. James Madison
+            2. James Monroe
+            3. John Quincy Adams
