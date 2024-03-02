@@ -2,9 +2,9 @@
 
 ## encabezados 
 
-      ## se agrega # y se integra un texto
-      ## cada # cambia la tipo grafia y 
-      ## dependiendo los # asi mismo se vera 
+      ## se agrega  y se integra un texto
+      ## cada  cambia la tipo grafia y 
+      ## dependiendo los  asi mismo se vera 
       ## afectado la tipo grafia
       
  ```
