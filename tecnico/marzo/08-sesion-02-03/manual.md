@@ -2,10 +2,10 @@
 
 ## encabezados 
 
-      se agrega # y se integra un texto
-      cada # cambia la tipo grafia y 
-      dependiendo los # asi mismo se vera 
-      afectado la tipo grafia
+      ## se agrega # y se integra un texto
+      ## cada # cambia la tipo grafia y 
+      ## dependiendo los # asi mismo se vera 
+      ## afectado la tipo grafia
       
  ```
 #A first-level heading
