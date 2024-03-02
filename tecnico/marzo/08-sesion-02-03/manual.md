@@ -74,3 +74,9 @@ comienza por un paréntesis,
 necesitará agregar el carácter de escape \:
 
 - [ ] \(Optional) Open a followup issue
+
+## Usar emojis
+Puedes agregar emoji a la escritura escribiendo :EMOJICODE:, 
+dos puntos seguidos del nombre del emoji.
+
+      @octocat :+1: This PR looks great - it's ready to merge! :shipit:
