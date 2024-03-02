@@ -30,10 +30,17 @@ Puede entrecomillar texto con >.
 ![.](tabla.JPG)
 
 ## Código de cita
-Puedes indicar un código o un comando dentro de un enunciado con comillas simples.
-El texto dentro de las comillas simples no será formateado.
-También puedes presionar el método abreviado de teclado Comando+E 
-(Mac) o Ctrl+E (Windows o Linux) para insertar las comillas simples de bloque de código en una línea de Markdown.
+            Puedes indicar un código o un comando dentro de un enunciado con comillas simples
+            
+            Use `git status` to list all new or modified files that haven't yet been committed.
+            
+            Para formatear código o texto en su propio bloque distintivo, usa comillas triples.
+            Some basic Git commands are:
+            ```
+            git status
+            git add
+            git commit
+            ```
 
 
 
