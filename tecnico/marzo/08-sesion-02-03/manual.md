@@ -29,5 +29,11 @@ Puede entrecomillar texto con >.
 
 ![.](tabla.JPG)
 
+## Código de cita
+Puedes indicar un código o un comando dentro de un enunciado con comillas simples.
+El texto dentro de las comillas simples no será formateado.
+También puedes presionar el método abreviado de teclado Comando+E 
+(Mac) o Ctrl+E (Windows o Linux) para insertar las comillas simples de bloque de código en una línea de Markdown.
+
 
 
