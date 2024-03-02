@@ -27,7 +27,6 @@ Puede entrecomillar texto con >.
        cursiva, tachado, o de subíndice o superíndice
         en los campos de comentarios y archivos .md.
 
-Use `git status` to list all new or modified files that haven't yet been committed.
 ![.](tabla.JPG)
 
 
