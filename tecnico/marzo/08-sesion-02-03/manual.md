@@ -21,9 +21,11 @@ Puede entrecomillar texto con >.
 
      > Text that is a quote
 
-## Código de cita
+## Estilos de texto
 
-Puedes indicar un código o un comando dentro de un enunciado con comillas simples. 
+       Puedes indicar énfasis con texto en negrita,
+       cursiva, tachado, o de subíndice o superíndice
+        en los campos de comentarios y archivos .md.
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 ![.](tabla.JPG)
