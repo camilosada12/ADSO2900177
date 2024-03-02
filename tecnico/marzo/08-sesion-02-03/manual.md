@@ -11,8 +11,11 @@ afectado la tipo grafia
 ##A second-level heading
 ###A third-level heading
 
-## los tipos de texto
+## Entrecomillado de texto
+Puede entrecomillar texto con >.
 
-### estilos
+> Text that is a quote
 
+se le aplica sanguia y un color diferente
 
+> Text that is a quote
