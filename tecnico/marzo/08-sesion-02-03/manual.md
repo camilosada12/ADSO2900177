@@ -25,7 +25,7 @@ Puede entrecomillar texto con >.
 
        Puedes indicar énfasis con texto en negrita,
        cursiva, tachado, o de subíndice o superíndice
-        en los campos de comentarios y archivos .md.
+       en los campos de comentarios y archivos .md.
 
 ![.](tabla.JPG)
 
