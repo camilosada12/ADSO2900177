@@ -58,3 +58,19 @@ Para ordenar tu lista, antecede cada línea con un número.
             1. James Madison
             2. James Monroe
             3. John Quincy Adams
+
+## Listas de tareas
+Para crear una lista de tareas, 
+debe añadir como prefijo un guion y espacio,
+seguido de [ ] a los elementos de la lista.
+Para marcar una tarea como completada, use [x].
+
+            - [x] #739
+            - [ ] https://github.com/octo-org/octo-repo/issues/740
+            - [ ] Add delight to the experience when all tasks are complete :tada:
+
+Si la descripción de un elemento de la lista de tareas 
+comienza por un paréntesis,
+necesitará agregar el carácter de escape \:
+
+- [ ] \(Optional) Open a followup issue
