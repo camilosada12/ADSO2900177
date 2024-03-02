@@ -27,3 +27,4 @@ Puedes indicar un código o un comando dentro de un enunciado con comillas simpl
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 ![Uploading tabla.png.JPG…](tabla.png)
+
