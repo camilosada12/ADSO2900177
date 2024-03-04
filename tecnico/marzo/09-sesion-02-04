@@ -86,3 +86,48 @@ inicio
     escribir "el promedio de quimica es ",k
 fin
 ```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si a>0 
+    escribir "su valor es positivo"
+    sino 
+    escribir "su valor es negativo"
+
+fin
+```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si a<200 
+    escribir "su numero es mayor a 200"
+    sino 
+    escribir "su numero es menor a 200"
+
+fin
+```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si (50<a<200)
+    escribir "su numero es esta entre 50 y 200"
+    sino 
+    escribir "su numero no esta entre 50 y 200"
+
+fin
+```
+
+
+
