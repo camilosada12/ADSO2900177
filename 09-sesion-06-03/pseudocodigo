@@ -1,1 +1,130 @@
+```
+  inicio 
+      definir p,i,s,c,l,k,w,x,e como real 
+      p=o.o
+      i=o.o
+      s=o.o
+      l=o.o
+      k=o.o
+      w=o.o
+      x=o.o
+      escribir "inversion de p"
+      leer p
+      escribir "inversion de i"
+      leer i
+      escribir "inversion de s"
+      leer s
+      l=p+i+s+c
+      k=(p*100)/l
+      w=(i*100)/l
+      x=(s*100)/l
+      escribir "porcenntaje de p",k"porcenntaje de i",w"porcenntaje de s",x
+fin
+```
 
+```
+inicio
+    definir  q,b,c,d,e,f,g,h,i,j,k,c,m,n,n1.o,p como real 
+    a=0,0
+    b=0,0
+    c=0,0
+    d=0,0
+    e=0,0
+    f=0,0
+    g=0,0
+    h=0,0
+    i=0,0
+    j=0,0
+    k=0,0
+    c=0,0
+    m=0,0
+    n=0,0
+    n1=0,0
+    o=0,0
+    p=0,0
+    escribir "la calificacion de matematicas se obtienede la siguiente manera: examen 90% y el promedio de tarea 3 tareas 10%"
+
+    escribir "digite la nota de la evalucion"
+    leer a
+    escribir "digite la nota de la primera tarea"
+    leer b
+    escribir "digite la nota de la segunda tarea"
+    leer c
+    escribir "digite la nota de la tercera tarea"
+    leer d
+    e=(b+c+d)/3
+    f=(a * 0.9)+ (e * 0.1)/2
+    escribir "el promedio de matematicas es ",f
+
+    escribir "la calificacion de fisica se obtienede la siguiente manera: examen 80% y el promedio de tarea 2 tareas 20%"
+
+    escribir "digite la nota de la evalucion"
+    leer g
+    escribir "digite la nota de la primera tarea"
+    leer h
+    escribir "digite la nota de la segunda tarea"
+    leer i
+
+    i = (g + h)/2
+    k = ( f * 0,8) + (i * 0,2)/2
+
+     escribir "el promedio de fisica es ",k
+
+      escribir "la calificacion de quimica se obtienede la siguiente manera: examen 85% y el promedio de tarea 2 tareas 15%"
+
+    escribir "digite la nota de la evalucion"
+    leer c
+    escribir "digite la nota de la primera tarea"
+    leer m
+    escribir "digite la nota de la segunda tarea"
+    leer n
+    escribir "digite la nota de la tercera tarea"
+    leer n1
+
+    o = (m + n + n1)/3
+    p = ( c * 0,85) + (o * 0,15)/2
+    escribir "el promedio de quimica es ",k
+fin
+```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si a>0 
+    escribir "su valor es positivo"
+    sino 
+    escribir "su valor es negativo"
+
+fin
+```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si a<200 
+    escribir "su numero es mayor a 200"
+    sino 
+    escribir "su numero es menor a 200"
+
+fin
+```
+
+```
+inicio
+    definir a como real
+    a= 0,0
+    escribir "digite un numero"
+    leer a
+    si (50<a<200)
+    escribir "su numero es esta entre 50 y 200"
+    sino 
+    escribir "su numero no esta entre 50 y 200"
+
+fin
+```
