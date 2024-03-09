@@ -1,4 +1,4 @@
-# 1. Tres personas deciden invertir su dinero para fundar una empresa. Cada una de ellas invierte una cantidad distinta. Obtener el porcentaje que cada quien invierte con respecto a la cantidad total invertida.
+Tres personas deciden invertir su dinero para fundar una empresa. Cada una de ellas invierte una cantidad distinta. Obtener el porcentaje que cada quien invierte con respecto a la cantidad total invertida.
 
 
 p1 = float(input("Digite la cantidad que invirtio la primera persona: "))
@@ -16,7 +16,7 @@ print("EL porcentaje que invirtio la segunda persona es ", p2)
 print("EL porcentaje que invirtio la tercera persona es ", p3) 
 
 
-# 2. Un alumno desea saber cuál será su promedio general en las tres materias más difíciles que cursa y cuál será el promedio que obtendrá en cada una de ellas. Estas materias se evalúan como se muestra a continuación
+Un alumno desea saber cuál será su promedio general en las tres materias más difíciles que cursa y cuál será el promedio que obtendrá en cada una de ellas. Estas materias se evalúan como se muestra a continuación
 
 # La calificación de Matemáticas se obtiene de la siguiente manera: Examen 90% Promedio de tareas 10% En esta materia se pidió un total de tres tareas.
 # La calificación de Física se obtiene de la siguiente manera: E   xamen 80% Promedio de tareas 20% En esta materia se pidió un total de dos tareas.
@@ -66,7 +66,7 @@ promQ = (H*0.85)+(ope*0.15)
 print("El promedio de Química es: ", promQ)
 
 
-# 3. Leer un real e imprimir si el número es positivo o negativo.
+Leer un real e imprimir si el número es positivo o negativo.
 
 
 num = float(input("Diguite un número ya sea positivo o negativo "))
@@ -77,7 +77,7 @@ else:
         print("Su número es negativo")
 
 
-# 4. Leer un real e imprimir si el número es mayor a 200 o no.
+Leer un real e imprimir si el número es mayor a 200 o no.
 
 num = float(input("Digite un número "))
 
@@ -87,7 +87,7 @@ else:
         print("Su número es menor que 200")
 
 
-# 5. Leer un real e imprimir si el número está en el rango de 50 y 100.
+Leer un real e imprimir si el número está en el rango de 50 y 100.
 
 num = float(input("Digite un número "))
 
