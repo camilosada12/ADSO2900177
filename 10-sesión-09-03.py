@@ -1,6 +1,6 @@
   primer ejercicio
 
-    ```
+
       x = 0 
     
     try: 
@@ -14,11 +14,11 @@
     except:
             print ("debe ser valor numerico ")
     
-    ```
+
 
  segundo ejercicio 
     
-    ```
+
     x = 0 
     y = 0
     
@@ -37,11 +37,11 @@
     except:
             print ("debe ser valor numerico ")
     
-    ```
+ 
 
 tercer ejercicio
 
-      ```
+      
       try: 
           n1 = float(input("digite el primer número: "))
           n2 = float(input("digite el segundo número: "))
@@ -58,11 +58,11 @@ tercer ejercicio
                   print(n1,",",n2)
       except:
           print("Digito no valido, solo se aceptan números")  
-      ```
+
 
 cuarto ejercicio 
 
-    ```
+
     try:
         n1 = float(input("digite el primer número: "))
         n2 = float(input("digite el segundo número: "))
@@ -105,4 +105,4 @@ cuarto ejercicio
                         print("digitos no validos para hacer el proceso")
     except:
         print("Digito no valido, solo se aceptan números")    
-    ```
+
